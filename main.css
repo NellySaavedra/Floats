@@ -1,0 +1,19 @@
+div{
+	height: 100px;
+	width: 25%;
+}
+.padre {
+	height: 300px;
+	width: 600px;
+	background-color: white;
+	border: 3px solid black;
+}
+.Caja1 {
+	background-color: yellow;
+}
+.Caja2 {
+	background-color: blue;
+}
+.Caja3{
+	background-color: red;
+}
