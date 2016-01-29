@@ -1,5 +1,7 @@
-div{
+div div{
 	width: 25%;
+	height: 100px;
+	float: right;
 }
 .padre {
 	width: 600px;
@@ -7,19 +9,13 @@ div{
 	border: 3px solid black;
 }
 .Caja1 {
-	height: 100px;
 	background-color: yellow;
-	float: left;
 }
 .Caja2 {
-	height: 100px;
 	background-color: blue;
-	float: left;
 }
 .Caja3{
-	height: 100px;
 	background-color: red;
-	float: left;
 }
 .clearfix:before,.clearfix:after {
 	content: "";
